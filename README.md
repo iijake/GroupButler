@@ -8,18 +8,6 @@
 
 Group Butler helps people administrate their groups, and includes many other useful tools.
 
-Group Butler was born as an [otouto](https://otou.to) [v3.1](https://github.com/topkecleon/otouto/tree/26c1299374af130bbf8457af904cb4ea450caa51) ([`@mokubot`](https://telegram.me/mokubot)), but it has since been turned into an administration bot.
-
-#### Group Butler on Telegram:
-
-- [`@GroupButler_bot`](https://telegram.me/GroupButler_Bot)
-	- **_branch_**: `master`
-	- **_channel_**: [`@GroupButler_ch`](https://telegram.me/groupbutler_ch).
-
-- [`@GBReborn_bot`](https://telegram.me/GBReborn_bot)
-	- **_branch_**: `develop`
-	- **_channel_**: [`@GroupButler_beta`](https://telegram.me/GroupButler_beta).
-
 * * *
 
 ## Setup
@@ -193,22 +181,4 @@ make pot
 
 * * *
 
-## Credits
 
-[Topkecleon](https://github.com/topkecleon), for the original [otouto](https://github.com/topkecleon/otouto)
-
-[Iman Daneshi](https://github.com/imandaneshi) and [Tiago Danin](https://github.com/TiagoDanin), for [Jack-telegram-bot](https://github.com/Imandaneshi/jack-telegram-bot)
-
-[Cosmonawt](https://github.com/cosmonawt), for his [Lua library](https://github.com/cosmonawt/lua-telegram-bot) for the Bot API
-
-[Yago Pérez](https://github.com/yagop) for his [telegram-bot](https://github.com/yagop/telegram-bot)
-
-The [Werewolf](https://github.com/parabola949/Werewolf) guys, for aiding the spread of the bot
-
-Lucas Montuano, for helping me a lot in the debugging of the bot
-
-All the Admins of our [discussion groups](https://telegram.me/gbgroups) about Group Butler
-
-All the people who reported bugs and suggested new stuff
-
-Le Laide
